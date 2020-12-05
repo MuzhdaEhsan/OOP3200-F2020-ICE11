@@ -4,7 +4,7 @@
  * @ICE11
  */
 
-package ca.durhamcollege;
+package ca.durhamcollege.core;
 
 import java.util.Scanner;
 import java.util.Vector;
